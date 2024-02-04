@@ -1,16 +1,9 @@
-# Topics in Software Engineering
+# Topics in Software Engineering: Session 1 - Assignment 1
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+Name: Airplane Ticket Tracker
 
-# Tools
-The tools that are installed with this devcontainer are:
+# Product Description
+This product is intended to give a visual display on historical data of airplane ticket trackers. The concept of this idea started when I was looking for the most affordable time to travel out of the country. The idea of this product is to project the average costs of airplane tickets from location A to location B, given the historical data avaliable. This would be displayed onto a graph, which would give users a better understanding of the market flucations of tickets. The intend of this product is to help users draft an ideal time to travel, given the cost of a plane ticket. 
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+# Primary Users
+The primary user for this application would be people looking for affordable plane tickets. This would give users an idea of when would be the most affordable time to buy tickets, given both historical and current ticket prices. 
